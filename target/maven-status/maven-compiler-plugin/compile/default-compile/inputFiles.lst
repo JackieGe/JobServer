@@ -1,0 +1,13 @@
+/Users/jackie/github/JobAppSolution/Server/src/main/java/com/job/dal/MyBatisConnectionFactory.java
+/Users/jackie/github/JobAppSolution/Server/src/main/java/com/job/dal/po/Job.java
+/Users/jackie/github/JobAppSolution/Server/src/main/java/com/job/dto/JobDTO.java
+/Users/jackie/github/JobAppSolution/Server/src/main/java/com/job/dal/mapper/JobMapper.java
+/Users/jackie/github/JobAppSolution/Server/src/main/java/com/job/filter/CORSFilter.java
+/Users/jackie/github/JobAppSolution/Server/src/main/java/com/job/app/Main.java
+/Users/jackie/github/JobAppSolution/Server/src/main/java/com/job/res/MyMessage.java
+/Users/jackie/github/JobAppSolution/Server/src/main/java/com/job/dal/mapper/JobDetailMapper.java
+/Users/jackie/github/JobAppSolution/Server/src/main/java/com/job/res/JobService.java
+/Users/jackie/github/JobAppSolution/Server/src/main/java/com/job/dto/JobDetailDTO2.java
+/Users/jackie/github/JobAppSolution/Server/src/main/java/com/job/dal/po/Job2.java
+/Users/jackie/github/JobAppSolution/Server/src/main/java/com/job/dto/JobDetailDTO.java
+/Users/jackie/github/JobAppSolution/Server/src/main/java/com/job/dal/accessor/JobAccessor.java
