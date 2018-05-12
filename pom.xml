@@ -26,6 +26,11 @@
             <artifactId>jersey-container-jetty-http</artifactId>
             <version>${jerseyVersion}</version>
         </dependency>
+        <dependency>
+            <groupId>org.glassfish.jersey.containers</groupId>
+            <artifactId>jersey-container-servlet-core</artifactId>
+            <version>${jerseyVersion}</version>
+        </dependency>
 
         <dependency>
             <groupId>org.glassfish.jersey.core</groupId>
