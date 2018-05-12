@@ -16,8 +16,6 @@
 
 
     <dependencies>
-
-
         <dependency>
             <groupId>org.glassfish.jersey.media</groupId>
             <artifactId>jersey-media-json-binding</artifactId>
