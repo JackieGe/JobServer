@@ -10,7 +10,7 @@ import javax.ws.rs.core.Response;
 import java.util.*;
 
 @Path("msg")
-@Singleton
+//@Singleton
 public class MyMessage {
 
     @GET
