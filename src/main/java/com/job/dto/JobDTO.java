@@ -1,41 +1,41 @@
 package com.job.dto;
 
 public class JobDTO {
-    public Integer getId() {
-        return Id;
+    public int getId() {
+        return id;
     }
 
     public JobDTO() {
 
     }
 
-    public JobDTO(Integer id, String name, String status) {
-        Id = id;
-        Name = name;
-        Status = status;
+    public JobDTO(int id, String name, String status) {
+        this.id = id;
+        this.name = name;
+        this.status = status;
     }
 
-    public void setId(Integer id) {
-        Id = id;
+    public void setId(int id) {
+        this.id = id;
     }
 
     public String getName() {
-        return Name;
+        return name;
     }
 
     public void setName(String name) {
-        Name = name;
+        this.name = name;
     }
 
     public String getStatus() {
-        return Status;
+        return status;
     }
 
     public void setStatus(String status) {
-        Status = status;
+        this.status = status;
     }
 
-    private Integer Id;
-    private String Name;
-    private String Status;
+    private int id;
+    private String name;
+    private String status;
 }
